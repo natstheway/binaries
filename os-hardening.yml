@@ -1,0 +1,5 @@
+- hosts: prod-Dv7G5uAi
+  collections:
+    - devsec.hardening
+  roles:
+    - os_hardening
